@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Johnny Rangel 👋</h1>
 <h3 align="center">Dedicated Front-end Developer from Austin, Texas 🤠</h3>
 
-- 🌱 I am currently imporving my skills in: **React.js & SASS**
+- 🌱 I am currently improving my skills in: **React.js & SASS**
 
 - 💬 Ask me about: **Anything about food**
 
